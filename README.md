@@ -4,5 +4,6 @@
 DIPNOT: Program ingilizcedir.<br/>
 
 Aşağıdaki komudu kullanmanız yeterli olacaktır:<br/>
+<code>chmod 777 install.sh</code><br/>
 <code>bash install.sh</code><br/>
 Teşekkürler!
